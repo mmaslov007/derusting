@@ -6,3 +6,5 @@ As you work through this exercise, write down anything that you needed to look u
 - instantiating ArrayLists
 - for each loops
 - joining strings
+- printing key along with value in a single loop
+- the entire Person.java class
