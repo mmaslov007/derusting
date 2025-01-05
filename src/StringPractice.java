@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class StringPractice {
   public static void main(String[] args) {
@@ -27,7 +28,7 @@ public class StringPractice {
     System.out.println("\n");
 
     // Create an ArrayList of Strings and assign it to a variable
-    ArrayList<String> stringList = new ArrayList<String>();
+    List<String> stringList = new ArrayList<String>();
 
     // Add multiple strings to the List (OK to do one-by-one)
     stringList.add("Monolith");
